@@ -1,7 +1,7 @@
 # Aplicatie de Gestionare a Inchirierilor de filme
 
 
-  Acest proiect este o aplicatie desktop realizata in Python, destinata gestionarii inchirierilor de filme. Aplicatia ofera functionalitati esentiale pentru administrarea filmelor, clientilor si inchirierilor, precum si generarea de rapoarte pentru analiza activitatii.
+  Acest proiect este o aplicatie desktop realizata in **Python**, destinata gestionarii inchirierilor de filme. Aplicatia ofera functionalitati esentiale pentru administrarea filmelor, clientilor si inchirierilor, precum si generarea de rapoarte pentru analiza activitatii.
 
 
 
