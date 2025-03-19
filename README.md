@@ -6,17 +6,17 @@
 
 Functionalitati principale:
 
-1. Gestionarea filmelor:
-   --> Adaugare, modificare si stergere film
-   --> Cautare film dupa titlu sau gen
-   --> Lista tuturor filmelor disponibile
-   --> Generarea unui film aleatoriu
+## 1. Gestionarea filmelor:
+  ** Adaugare, modificare si stergere film
+  ** Cautare film dupa titlu sau gen
+  ** Lista tuturor filmelor disponibile
+  ** Generarea unui film aleatoriu
       
-3. Gestionarea clientilor:
-     --> Adaugarea, modificare si stergere client
-     --> Cautare client dupa nume sau CNP
-     --> Lista tuturor clientilor
-     --> Generarea unui client aleatoriu
+## 2. Gestionarea clientilor:
+   ** Adaugarea, modificare si stergere client
+   ** Cautare client dupa nume sau CNP
+   ** Lista tuturor clientilor
+   ** Generarea unui client aleatoriu
 
 4. Gestionarea inchirierilor:
      --> Inchirierea unui film de catre un client
