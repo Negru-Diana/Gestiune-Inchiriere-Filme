@@ -33,8 +33,8 @@
 
 ## Descriere proiect
 
-  Proiectul a fost realizat in Anul I, Semestrul 1 de facultate, cu scopul de a dezvolta abilitati practice in: 
+  Proiectul a fost realizat in **Anul I, Semestrul 1** de facultate, cu scopul de a dezvolta abilitati practice in: 
 -  gestionarea datelor
--  algoritmi de sortare
+-  algoritmi de sortare personalizati
 -  manipularea fisierelor
 -  separarea logicii intr-un proiect bine structura
