@@ -7,23 +7,23 @@
 Functionalitati principale:
 
 1. Gestionarea filmelor:
-     --> Adaugare, modificare si stergere film
-     --> Cautare film dupa titlu sau gen
-     --> Lista tuturor filmelor disponibile
-     --> Generarea unui film aleatoriu
+   --> Adaugare, modificare si stergere film
+   --> Cautare film dupa titlu sau gen
+   --> Lista tuturor filmelor disponibile
+   --> Generarea unui film aleatoriu
       
-2. Gestionarea clientilor:
+3. Gestionarea clientilor:
      --> Adaugarea, modificare si stergere client
      --> Cautare client dupa nume sau CNP
      --> Lista tuturor clientilor
      --> Generarea unui client aleatoriu
 
-3. Gestionarea inchirierilor:
+4. Gestionarea inchirierilor:
      --> Inchirierea unui film de catre un client
      --> Returnarea unui film inchiriat
      --> Afisarea inchirierilor
 
-4. Rapoarte:
+5. Rapoarte:
      --> Lista clientilor care au filme inchiriate in prezent
      --> Top 3 cele mai inchiriate filme
      --> Top 30% dintre clientii cu cele mai multe inchirieri
