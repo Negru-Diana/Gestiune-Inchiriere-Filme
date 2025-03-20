@@ -37,4 +37,4 @@
 -  gestionarea datelor
 -  algoritmi de sortare personalizati
 -  manipularea fisierelor
--  separarea logicii intr-un proiect bine structura
+-  separarea logicii intr-un proiect bine structurat
