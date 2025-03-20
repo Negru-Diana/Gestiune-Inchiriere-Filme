@@ -31,7 +31,7 @@
 -  Top 30% dintre clientii cu cele mai multe inchirieri
 
 
-## Descriere proiect
+## Obiective proiect
 
   Proiectul a fost realizat in **Anul I, Semestrul 1** de facultate, la cursul de **Fundamente ale Programarii**, avand ca obiectiv dezvoltarea abilitatilor practice in: 
 -  gestionarea datelor
